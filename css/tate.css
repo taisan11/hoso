@@ -1,5 +1,10 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 body {
     writing-mode: vertical-rl;
     line-height: 180%;
     font-size: 115%;
+    }
+ruby {
+    font-family: 'Noto Sans Japanese',   sans-serif;
+    font-weight: 400;
     }
