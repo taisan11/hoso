@@ -1,6 +1,13 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 body {
     writing-mode: vertical-rl;
-    line-height: 180%;
+    line-height: 100%;
     font-size: 300%;
     }
+@media screen and (max-width:480px) {
+    body {
+        font-size: 600%;
+        }
+    
+    
+}
